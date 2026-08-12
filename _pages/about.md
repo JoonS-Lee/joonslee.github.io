@@ -9,7 +9,7 @@ redirect_from:
 
 안녕하세요! 저는 **이준섭**입니다. 
 
-저는 현재 HD현대사이트솔루션에서 산업차량 개발을 담당하고 있습니다. [나의 소개 Page](https://joons-lee.github.io)
+저는 현재 HD현대사이트솔루션에서 산업차량 개발을 담당하고 있습니다. [나의 소개 Page](https://joons-lee.github.io/joonslee.github.io)
 
 이것은 나의 소개
 ===
